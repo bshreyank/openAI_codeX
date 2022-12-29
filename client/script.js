@@ -91,7 +91,7 @@ const handleSubmit = async (e) => {
   //////////////////////////////////////////////
 
   //Fetch data from server -> bot's response
-  const response = await fetch('http://localhost:5000',{
+  const response = await fetch('https://openai-codex-qrwe.onrender.com',{
     method: 'POST',   
     headers:{                                                 //////////////////You made a massive mistake here ... keep in mind ... Its headers... not header
       'Content-Type':'application/json'

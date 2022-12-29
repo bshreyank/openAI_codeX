@@ -1,0 +1,13 @@
+Server Side: 
+> To deploy our server side for free, we are going to use render.com 
+> login in render.com via github
+> New + 
+> Web Service
+> Public Git repository
+> paste the repository link of project
+> Fill the details 
+> wait for it to git live 
+
+Client Side:
+> To deploy our client side for free, we are going to use Vercel.com
+> versel.com/get-started 
