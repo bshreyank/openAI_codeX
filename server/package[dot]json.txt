@@ -1,0 +1,9 @@
+npm install cors dotenv express nodemon openai
+
+cors - used for cross origin requests 
+dotenv - used for secure environment requests
+express - as backend framework
+nodemon - to keep out application running when we implement changes 
+openai -  OpenAI module
+
+"type": "module" - This is going to let us use import instead of regular old required statements
